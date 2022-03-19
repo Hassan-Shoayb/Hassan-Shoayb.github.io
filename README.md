@@ -1,5 +1,5 @@
 # Hassan-Shoayb.github.io
-My Portfolio Website to showcase, the website is hosted on github pages 
+My Portfolio Website to showcase my skills and projects, the website is hosted on github pages 
 
 ### Libraries used:
 <ul>
