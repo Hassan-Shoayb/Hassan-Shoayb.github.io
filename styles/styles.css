@@ -40,6 +40,11 @@ p {
   text-justify: inter-word;
 }
 
+.open-source{
+  width: 100%;
+}
+
+
 .container {
   overflow: auto;
 }
